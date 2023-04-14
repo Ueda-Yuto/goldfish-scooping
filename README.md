@@ -18,4 +18,6 @@ You can enjoy this game on Android.
 https://play.google.com/store/apps/details?id=com.Keio.goldfishscooping&hl=en_US
 
 ## Development
+Unity (editor version: 2019.4.19f1)
+
 I developed this game with [yohei0207](https://github.com/yohei0207).
