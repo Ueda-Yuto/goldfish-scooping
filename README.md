@@ -16,3 +16,6 @@ The life gauge decreases with time spent in the water.
 You can enjoy this game on Android.
 
 https://play.google.com/store/apps/details?id=com.Keio.goldfishscooping&hl=en_US
+
+## Development
+I developed this game with [yohei0207](https://github.com/yohei0207).
